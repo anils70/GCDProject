@@ -16,7 +16,7 @@ Data source is [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Reco
 
 ## Data Cleaning and Analysis
 
-Please refer [ReadMe.md]() located at github repo for details
+Please refer [ReadMe.md](https://github.com/anils70/GCDProject/blob/master/README.md) located at github repo for details
 
 ##Variables
 
